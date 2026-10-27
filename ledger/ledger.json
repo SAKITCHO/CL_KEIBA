@@ -1,0 +1,27 @@
+{
+ "updated": "2026-10-28 08:59:30",
+ "today": {
+  "n": 0,
+  "profit": 0
+ },
+ "month": {
+  "n": 0,
+  "stake": 0,
+  "payout": 0,
+  "profit": 0
+ },
+ "all": {
+  "n": 0,
+  "stake": 0,
+  "payout": 0,
+  "profit": 0
+ },
+ "verify": {
+  "armA_n": 0,
+  "armA_roi": null,
+  "bets_n": 0,
+  "stake": 0,
+  "payout": 0,
+  "profit": 0
+ }
+}
