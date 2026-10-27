@@ -1,0 +1,10 @@
+# 公開するのは予想・収支のHTML(と README)だけ。それ以外(DB・コード・ログ・モデル・メモ)はすべて除外する。
+*
+!.gitignore
+!README.md
+!index.html
+!push_test.txt
+!predictions/
+!predictions/**
+!ledger/
+!ledger/**
