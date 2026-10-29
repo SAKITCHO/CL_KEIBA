@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-29 15:44:06",
+ "updated": "2026-10-29 15:47:01",
  "today": {
-  "n": 281,
-  "profit": -24950.0
+  "n": 288,
+  "profit": -26350.0
  },
  "month": {
-  "n": 399,
-  "stake": 84000,
-  "payout": 40350.0,
-  "profit": -43650.0
+  "n": 406,
+  "stake": 87500,
+  "payout": 42450.0,
+  "profit": -45050.0
  },
  "all": {
-  "n": 399,
-  "stake": 84000,
-  "payout": 40350.0,
-  "profit": -43650.0
+  "n": 406,
+  "stake": 87500,
+  "payout": 42450.0,
+  "profit": -45050.0
  },
  "verify": {
   "armA_n": 5,
   "armA_roi": 1.08,
-  "bets_n": 399,
-  "stake": 84000,
-  "payout": 40350.0,
-  "profit": -43650.0
+  "bets_n": 406,
+  "stake": 87500,
+  "payout": 42450.0,
+  "profit": -45050.0
  }
 }
