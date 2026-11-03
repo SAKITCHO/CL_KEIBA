@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03 14:25:03",
+ "updated": "2026-11-03 14:31:15",
  "today": {
   "n": 190,
   "profit": 20300.0
@@ -22,6 +22,20 @@
   "bets_n": 2911,
   "stake": 578900,
   "payout": 394750.0,
-  "profit": -184150.0
+  "profit": -184150.0,
+  "k": {
+   "primary": {
+    "n": 0,
+    "fuku_roi": null,
+    "win_roi": null,
+    "hit": null
+   },
+   "all": {
+    "n": 0,
+    "fuku_roi": null,
+    "win_roi": null,
+    "hit": null
+   }
+  }
  }
 }
