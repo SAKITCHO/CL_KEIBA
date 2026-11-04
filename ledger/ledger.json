@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-04 10:50:04",
+ "updated": "2026-11-04 10:52:03",
  "today": {
-  "n": 0,
-  "profit": 0
+  "n": 21,
+  "profit": 1350.0
  },
  "month": {
-  "n": 1474,
-  "stake": 298600,
-  "payout": 214760.0,
-  "profit": -83840.0
+  "n": 1495,
+  "stake": 302200,
+  "payout": 219710.0,
+  "profit": -82490.0
  },
  "all": {
-  "n": 3172,
-  "stake": 621300,
-  "payout": 425600.0,
-  "profit": -195700.0
+  "n": 3193,
+  "stake": 624900,
+  "payout": 430550.0,
+  "profit": -194350.0
  },
  "verify": {
   "armA_n": 27,
   "armA_roi": 0.8370370370370371,
-  "bets_n": 3172,
-  "stake": 621300,
-  "payout": 425600.0,
-  "profit": -195700.0,
+  "bets_n": 3193,
+  "stake": 624900,
+  "payout": 430550.0,
+  "profit": -194350.0,
   "k": {
    "primary": {
     "n": 0,
@@ -31,10 +31,10 @@
     "hit": null
    },
    "all": {
-    "n": 0,
-    "fuku_roi": null,
-    "win_roi": null,
-    "hit": null
+    "n": 2,
+    "fuku_roi": 0.0,
+    "win_roi": 0.0,
+    "hit": 0.0
    }
   }
  }
